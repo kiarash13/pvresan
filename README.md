@@ -1,14 +1,10 @@
-# PvResan
+# سورس پیام رسان
 
 سلام
 
-این سورس توسط ادمین اوپن شده و کاملترین سورس موجوده
+این سورس توسط ادمین ربات آلفا اپن شده است و هرگونه کپی شرعا حرام است
 
 برای آموزش ران کردن به 
-<a href="http://www.telegram.me/nawr_i_man_bot">ادمین</a>
-پیام بدید
-
-یه تشکر  ویژه از دوستای خوبم    </br>
-<a href="http://www.telegram.me/awmir_ho3in">awmir_ho3in</a></br>
-<a href="http://www.telegram.me/FasTReaCtoR">FasTReaCtoR</a>
-
+<a href="http://www.telegram.me/k_i_a_r_a_sh">ادمین</a>
+vipپیام بدید (البته باید 
+خریده باشید
