@@ -9,4 +9,5 @@
 پیام بدید
 البته باید وی ای پی از ما خریده باشید <
 
-<pre>alpha</pre>
+<pre>@kiarashghorbanibot</pre>
+<pre>@alpha_chnnel</pre>
